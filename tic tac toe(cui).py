@@ -71,6 +71,7 @@ def onep_game():
 			print(p.figlet_format("!!!!!\nO wins! ",font="small"))
 			break 
 		if s==[]:
+			default_game(a,b,c,d,e,f,i,j,k)
 			print(p.figlet_format("It's a tie",font="small"))
 			break
 		else:
@@ -99,12 +100,14 @@ def onep_game():
 				default_game(a,b,c,d,e,f,i,j,k)
 			x.sort()
 			o.sort()
-		elif n=='X':
+		elif n=='X' and ch in range(1,10):
 			print('Place is already occupied.')
 			t-=1
-		elif n=="O":
-			t-=1	
-
+		elif n=="O" and ch in range(1,10):
+			t-=1
+		else:
+			print("plz,enter value b/w 1 to 9.")
+			t-=1
 def twop_game():
 	s=[l for l in range(1,10)]
 	x=[]

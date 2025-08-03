@@ -4,6 +4,12 @@ This is a classic Tic Tac Toe game written in Python that you can play in your t
 
 # 📸 Demo
 
+<img width="554" height="339" alt="image" src="https://github.com/user-attachments/assets/7f8b0263-653f-4a7a-981f-d8b62cf28f26" />
+
+<img width="364" height="342" alt="image" src="https://github.com/user-attachments/assets/519e2571-4ef4-4470-931c-0c7b44fbe2cc" />
+
+<img width="572" height="406" alt="image" src="https://github.com/user-attachments/assets/56b74768-4373-4cdb-b091-7c0c2bc334a3" />
+
 
 # ✅ Features
 

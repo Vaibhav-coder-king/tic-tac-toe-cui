@@ -42,5 +42,6 @@ First to align three marks in a row (horizontally, vertically, or diagonally) wi
 
 If all spots are filled without a winner, the game ends in a tie.
 
-# author 
-made by Vaibhav-coder-king.
+# 🙋‍♂️ Author
+
+Made BY [Vaibhav-coder-king](https://github.com/Vaibhav-coder-king)
